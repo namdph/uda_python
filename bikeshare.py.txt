@@ -262,6 +262,7 @@ def main():
             print('BYE!')
 	    print('Happy')
 	    print('New')
+	    print('Year')
             break
 
 
