@@ -261,7 +261,7 @@ def main():
         if restart.lower() != 'yes':
             print('BYE!')
 	    print('Happy')
-	    print('New')
+	    #print('New')
 	    print('Year')
             break
 
